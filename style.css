@@ -23,12 +23,13 @@ body {
   text-align: center;
   margin-right: 500px;
   margin-left: 500px;
+  margin-bottom: 20px;
 }
 .images {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   height: 300px;
 }
 .scores {
   height: 200px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
